@@ -7,36 +7,35 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '常用工具',
+    title: '只有同行之间才是赤裸裸的仇恨',
     items: [
       {
-        icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
-        title: '安全导航',
-        desc: '梦开始的地方',
-        link: 'https://www.google.com',
+        icon: '🤣',
+        title: '星际黑客',
+        link: 'https://xj.hk/',
       },
       {
-        icon: 'https://tinypng.com/images/apple-touch-icon.png',
+        icon: '👌',
         title: '渗透师',
         link: 'https://www.shentoushi.top/',
       },
       {
-        icon: 'https://devtool.tech/logo.svg',
-        title: '开发者武器库',
-        desc: '开发者武器库，做开发者最专业最好用的专业工具箱',
-        link: 'https://devtool.tech',
+        icon: '🐛',
+        title: 'ctf导航',
+        desc: 'iot',
+        link: 'https://www.ctfiot.com/',
       },
       {
-        icon: 'https://tool.lu/favicon.ico',
-        title: '在线工具',
-        desc: '开发人员的工具箱',
-        link: 'https://tool.lu',
+        icon: 'https://dh.aabyss.cn/favicon.ico',
+        title: '渊龙sec安全团队',
+        desc: '',
+        link: 'https://dh.aabyss.cn/',
       },
       {
         icon: '/icons/json-cn.ico',
-        title: 'Json 中文网',
-        desc: 'JSON 在线解析及格式化验证',
-        link: 'https://www.json.cn',
+        title: '极牛导航',
+        desc: '',
+        link: 'https://hao.geeknb.com/',
       },
     ],
   },
