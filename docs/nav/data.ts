@@ -22,19 +22,16 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '🐛',
         title: 'ctf导航',
-        desc: 'iot',
         link: 'https://www.ctfiot.com/',
       },
       {
         icon: 'https://dh.aabyss.cn/favicon.ico',
         title: '渊龙sec安全团队',
-        desc: '',
         link: 'https://dh.aabyss.cn/',
       },
       {
         icon: '/icons/json-cn.ico',
         title: '极牛导航',
-        desc: '',
         link: 'https://hao.geeknb.com/',
       },
     ],
