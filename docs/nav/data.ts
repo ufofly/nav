@@ -7,7 +7,7 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '只有同行之间才是赤裸裸的仇恨',
+    title: '导航套娃',
     items: [
       {
         icon: '🤣',
@@ -59,6 +59,17 @@ export const NAV_DATA: NavData[] = [
         title: 'Seebug',
         link: 'https://paper.seebug.org/',
       },
+      {
+        icon: 'https://st.drweb.cn/static/new-www/favicon.ico?r=2',
+        title: '大蜘蛛🕷',
+        link: 'https://www.secpulse.com/',
+      },
+      // {
+      //   icon: 'https://www.sangfor.com/favicon.ico',
+      //   title: '深信服',
+      //   link: 'https://www.sangfor.com/',
+      // },
+      //}
      
     ],
   },

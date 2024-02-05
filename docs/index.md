@@ -3,12 +3,12 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 网络安全
+  name: 网络安全导航
   text: 安全导航页面
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
-    alt: cs1
+    alt: 程序员
   actions:
     
     
