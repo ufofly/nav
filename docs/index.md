@@ -3,23 +3,19 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
+  name: cs
   text: 前端导航模板
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: cs1
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
+    - text: cs
+      link: https://www.google.com
     - text: 前端导航
       link: /nav/
       theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
-      theme: alt
+    
 
 ---
 
