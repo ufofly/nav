@@ -10,10 +10,10 @@ export const NAV_DATA: NavData[] = [
     title: '常用工具',
     items: [
       {
-        icon: 'https://caniuse.com/img/favicon-128.png',
-        title: 'Can I use',
-        desc: '前端 API 兼容性查询',
-        link: 'https://caniuse.com',
+         icon: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.zOBkqmN4CgZ_yagT1_yswwAAAA?rs=1&pid=ImgDetMain',
+        title: '芷溪列传',
+        desc: '梦开始的地方',
+        link: 'https://docs.qq.com/doc/DQ0hWVndHdWVaUFNH',
       },
       {
         icon: 'https://tinypng.com/images/apple-touch-icon.png',
