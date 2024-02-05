@@ -10,11 +10,7 @@ hero:
     src: /logo.png
     alt: cs1
   actions:
-    - text: cs
-      link: https://www.google.com
-    - text: 前端导航
-      link: /nav/
-      theme: alt
+    
     
 
 ---
