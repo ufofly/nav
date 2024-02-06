@@ -13,7 +13,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'web安全',
   description: '网络安全学习',
-  head,
+  head:[["link", { rel: "icon", href: "/nav/logo.png" }]],
 
   lastUpdated: true,
   cleanUrls: true,
