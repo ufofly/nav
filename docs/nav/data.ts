@@ -10,17 +10,17 @@ export const NAV_DATA: NavData[] = [
     title: '导航套娃',
     items: [
       {
-        icon: '🤣',
+        icon: 'https://xj.hk/favicon.ico',
         title: '星际黑客',
         link: 'https://xj.hk/',
       },
       {
-        icon: '👌',
+        icon: 'https://www.shentoushi.top/Public/home/images/favicon.png',
         title: '渗透师',
         link: 'https://www.shentoushi.top/',
       },
       {
-        icon: '🐛',
+        icon: 'https://www.ctfiot.com/favicon.ico',
         title: 'ctf导航',
         link: 'https://www.ctfiot.com/',
       },
@@ -30,7 +30,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://dh.aabyss.cn/',
       },
       {
-        icon: '',
+        icon: 'https://hao.geeknb.com/static/images/favicon.png',
         title: '极牛导航',
         link: 'https://hao.geeknb.com/',
       },
